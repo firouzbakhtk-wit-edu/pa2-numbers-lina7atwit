@@ -30,7 +30,6 @@ public class PA2a {
 				non_positive_sum = non_positive_sum+N1;
 				non_positive_average = non_positive_sum/non_positive_numbers;
 			}
-				
 		}
 			
 		System.out.printf("The sum of the %d positive numbers: %.0f%n",positive_numbers,positive_sum);

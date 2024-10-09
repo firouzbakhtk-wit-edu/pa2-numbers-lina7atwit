@@ -19,7 +19,6 @@ public class PA2b {
 		
 		d = (b*b)-(4*a*c);
 		
-		
 		if (d<0) {
 			System.out.printf("Roots: imaginary");	
 		}
